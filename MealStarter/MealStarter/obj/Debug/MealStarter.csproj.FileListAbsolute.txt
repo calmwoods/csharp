@@ -1,0 +1,6 @@
+C:\Users\dana\Desktop\SSDP\3_cSharp\HW\inclass4hw4\_MealStarter\MealStarter\MealStarter\bin\Debug\MealStarter.exe.config
+C:\Users\dana\Desktop\SSDP\3_cSharp\HW\inclass4hw4\_MealStarter\MealStarter\MealStarter\bin\Debug\MealStarter.exe
+C:\Users\dana\Desktop\SSDP\3_cSharp\HW\inclass4hw4\_MealStarter\MealStarter\MealStarter\bin\Debug\MealStarter.pdb
+C:\Users\dana\Desktop\SSDP\3_cSharp\HW\inclass4hw4\_MealStarter\MealStarter\MealStarter\obj\Debug\MealStarter.csprojResolveAssemblyReference.cache
+C:\Users\dana\Desktop\SSDP\3_cSharp\HW\inclass4hw4\_MealStarter\MealStarter\MealStarter\obj\Debug\MealStarter.exe
+C:\Users\dana\Desktop\SSDP\3_cSharp\HW\inclass4hw4\_MealStarter\MealStarter\MealStarter\obj\Debug\MealStarter.pdb
